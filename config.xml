@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
-  id          = "com.webdgap.flatdesigncharactermaker"
+  id          = "io.github.phonegap-apps.Character-Maker"
   version     = "0.0.2"
   versionCode = "2">
-  <name>Flat Design Character Maker</name>
+  <name>Character Maker</name>
   <description>
-    Just a simple flat design vector based character designer.
+    Just a simple vector based character designer.
   </description>
-  <author email="mikethedj4@yahoo.com" href="http://michaelsboost.github.io/">
+  <author email="" href="">
     Michael Schwartz
   </author>
 
